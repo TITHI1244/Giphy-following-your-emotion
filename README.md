@@ -1,4 +1,4 @@
-# Find-your-emotion-with-giphy
+# Giphy-following-your-emotion
 About: A functional web app, that connects your emotion to the gif's, using giphy API and JavaScript.
 
 Used: HTML5, CSS3, JavaScript, Bootstrap.
